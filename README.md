@@ -1,6 +1,6 @@
 # ATSser.Framework (Selenium + C# Demo)
 
-This is a **ready-to-run** Selenium framework demo (single project inside a solution) with the structure you asked:
+This is a **ready-to-run** Selenium framework demo (single project inside a solution) :
 
 ```
 ATSser.Framework
